@@ -40,3 +40,4 @@ Average Monthly Salary
 5️⃣ Employees working overtime have higher turnover.
 
 # Dahboard Preview
+[![Dahboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Employee%20Attrition%20%26%20Productivity%20Report/HR%20Analytics%20.png)
