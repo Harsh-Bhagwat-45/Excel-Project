@@ -35,7 +35,7 @@ Each project focuses on solving business problems and generating actionable insi
 - Analyzes customer orders, products, and supply chain
 - Identifies operational inefficiencies and trends
 
-👉 [View Project](./Ecommerce and supply chain Analysis)
+👉 [View Project](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Ecommerce%20and%20supply%20chain%20Analysis/Ecommerce%20%26%20Supply%20chain.png)
 
 ---
 
