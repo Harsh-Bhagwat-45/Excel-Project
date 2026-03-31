@@ -15,16 +15,16 @@ Does overtime increase employee turnover?
 Does salary influence attrition?
 
 # Tools Used
-Microsoft Excel
-Power Query
-Power Pivot
-DAX Measures
-Pivot Tables
-Interactive Slicers
-Dashboard KPIs
-Total Employees
-Attrition Count
-Attrition Rate
+Microsoft Excel ,
+Power Query ,
+Power Pivot ,
+DAX Measures ,
+Pivot Tables ,
+Interactive Slicers, 
+Dashboard KPIs ,
+Total Employees ,
+Attrition Count ,
+Attrition Rate ,
 Average Monthly Salary
 
 # Key Insights
