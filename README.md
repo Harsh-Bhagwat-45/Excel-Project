@@ -42,6 +42,7 @@ This project analyzes retail sales data using Microsoft Excel to generate action
 ## 📂 Project Files
 - `SuperStoreOrders Analysis.xlsx` → Data & Dashboard
 - `Retail Superstore.png` → Dashboard Preview
+- `Train data.xlsx` → Dataset
 
 ---
 
