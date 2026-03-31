@@ -59,7 +59,7 @@ This project aims to answer:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Add your image link here)
+![Dashboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Financial%20Analysis%20for%20a%20Loan%20Default/Financial%20Analytics%20.png)
 
 ---
 
