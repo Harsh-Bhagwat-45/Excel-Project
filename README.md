@@ -1,50 +1,63 @@
+# 📊 Excel Data Analysis Projects Portfolio
 
-# 📊 Superstore Sales & Profit Dashboard
-
-## 📌 Project Overview
-This project analyzes retail sales data using Microsoft Excel to generate actionable business insights on sales, profit, customers, and regional performance.
+This repository contains multiple real-world data analysis projects built using Microsoft Excel.  
+Each project focuses on solving business problems and generating actionable insights through dashboards.
 
 ---
 
-## 🛠️ Tools & Techniques
+## 📁 Projects
+
+### 🔹 1. Sales Analysis for a Retail Store
+- Analyzes sales, profit, and customer trends
+- Identifies top-performing categories and regions
+
+👉 [View Project](
+
+---
+
+### 🔹 2. HR Analytics (Employee Attrition & Productivity)
+- Analyzes employee attrition and workforce trends
+- Identifies factors affecting employee retention
+
+👉 [View Project](./Employee Attrition & Productivity Report)
+
+---
+
+### 🔹 3. Financial Analysis for Loan Default
+- Evaluates loan risk and default patterns
+- Helps in identifying high-risk customers
+
+👉 [View Project](./Financial Analysis for a Loan Default)
+
+---
+
+### 🔹 4. Ecommerce & Supply Chain Analysis
+- Analyzes customer orders, products, and supply chain
+- Identifies operational inefficiencies and trends
+
+👉 [View Project](./Ecommerce and supply chain Analysis)
+
+---
+
+## 🛠️ Tools & Skills Used
 - Microsoft Excel
 - Pivot Tables
+- Power Query
+- Power Pivot
 - XLOOKUP / INDEX-MATCH
-- Data Cleaning & Transformation
+- Data Cleaning
+- Dashboard Design
+- Business Analysis
 
 ---
 
-## 📈 Key Insights
-- Overall profit margin is "11.62%"
-- Technology category is the "most profitable"
-- Furniture category shows "low profitability"
-- West region performs the "best"
-- Some high-sales customers generate "losses"
-- Discounts negatively impact profit
+## 📌 Key Highlights
+- Built interactive dashboards for real-world datasets
+- Extracted business insights from raw data
+- Improved decision-making using data visualization
 
 ---
 
-## 📊 Dashboard Features
-- KPI Cards (Sales, Profit, Orders, Margin)
-- Monthly Sales Trend
-- Sales by Category & Region
-- Top Customers & Products
-- Interactive Slicers
-
----
-
-## 🖼️ Dashboard Preview
-
-[![Dashboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Sales%20Analysis%20For%20a%20Retail%20Store/Retail%20Superstore.png)
-
----
-
-## 📂 Project Files
-- `SuperStoreOrders Analysis.xlsx` → Data & Dashboard
-- `Retail Superstore.png` → Dashboard Preview
-- `Train data.xlsx` → Dataset
-
----
-
-## 🚀 Outcome
-This project demonstrates strong Excel skills in data analysis, dashboard creation, and business insight generation.
+## 🚀 About Me
+Aspiring Data Analyst with strong skills in Excel, SQL, and data visualization.  
+Currently building projects to gain real-world experience and prepare for data analyst roles.
