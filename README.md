@@ -27,7 +27,7 @@ Each project focuses on solving business problems and generating actionable insi
 - Evaluates loan risk and default patterns
 - Helps in identifying high-risk customers
 
-👉 [View Project](./Financial Analysis for a Loan Default)
+👉 [View Project](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Financial%20Analysis%20for%20a%20Loan%20Default/Financial%20Analytics%20.png)
 
 ---
 
