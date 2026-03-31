@@ -61,7 +61,7 @@ Some high-sales customers generate losses due to discounts.
 Discounted sales increase revenue but reduce profit margins.
 
 📷 Dashboard Preview
-
+[![Dashboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Sales%20Analysis%20For%20a%20Retail%20Store/Retail%20Superstore.png)
 
 📁 Project Files
 Superstore Dashboard.png
