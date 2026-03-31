@@ -1,10 +1,12 @@
 📊 Employee Attrition & Workforce Analytics Dashboard 
 
 📌 Project Overview
+
 This project focuses on analyzing employee attrition using Microsoft Excel.
 The objective is to identify key factors affecting employee turnover and present insights through an interactive dashboard.
 
 🎯 Business Problem
+
 Employee attrition is a critical issue for organizations as it increases hiring costs and reduces productivity.
 
 This project aims to answer:
@@ -15,6 +17,7 @@ Does overtime impact employee turnover?
 Does salary influence attrition?
 
 🛠️ Tools & Technologies Used
+
 Microsoft Excel
 Power Query (Data Cleaning)
 Power Pivot (Data Modeling)
@@ -23,12 +26,14 @@ Pivot Tables & Charts
 Interactive Slicers
 
 📊 Dashboard KPIs
+
 Total Employees
 Attrition Count
 Attrition Rate (%)
 Average Monthly Salary
 
 📈 Key Insights
+
 📌 Attrition rate is 16%, meaning 1 out of 6 employees leaves the company.
 📌 Research & Development and Sales departments show higher attrition.
 📌 Employees aged 26–35 have the highest turnover.
@@ -46,6 +51,7 @@ README.md
 Dashboard_Screenshot.png
 
 🚀 Skills Demonstrated
+
 Data Cleaning & Transformation
 Data Modeling (Power Pivot)
 DAX Calculations
