@@ -1,0 +1,26 @@
+📊 Superstore Sales & Profit Dashboard
+📌 Project Overview
+
+This project analyzes retail sales data using Excel to generate business insights on sales, profit, customers, and regions.
+
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables
+XLOOKUP / INDEX-MATCH
+Data Cleaning Techniques
+📈 Key Insights
+Overall profit margin is 11.62%
+Technology category is most profitable
+Furniture category shows low profitability
+West region performs best
+Some high-sales customers generate losses
+Discounts impact profit negatively
+📊 Dashboard Features
+KPI Cards (Sales, Profit, Orders, Margin)
+Monthly Sales Trend
+Sales by Category & Region
+Top Customers & Products
+Interactive Slicers
+📷 Dashboard Preview
+
+(Upload your screenshot here)
