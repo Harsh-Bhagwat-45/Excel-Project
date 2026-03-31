@@ -11,7 +11,7 @@ Each project focuses on solving business problems and generating actionable insi
 - Analyzes sales, profit, and customer trends
 - Identifies top-performing categories and regions
 
-👉 [View Project](
+👉 [View Project](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Sales%20Analysis%20For%20a%20Retail%20Store/Retail%20Superstore.png)
 
 ---
 
@@ -19,7 +19,7 @@ Each project focuses on solving business problems and generating actionable insi
 - Analyzes employee attrition and workforce trends
 - Identifies factors affecting employee retention
 
-👉 [View Project](./Employee Attrition & Productivity Report)
+👉 [View Project]()
 
 ---
 
