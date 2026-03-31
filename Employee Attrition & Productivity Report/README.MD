@@ -41,7 +41,7 @@ Average Monthly Salary
 📌 Employees working overtime show higher attrition.
 
 📷 Dashboard Preview
-[![Dashboard Preview] (https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Employee%20Attrition%20%26%20Productivity%20Report/HR%20Analytics%20.png)
+[![Dashboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Employee%20Attrition%20%26%20Productivity%20Report/HR%20Analytics%20.png)
 
 📂 Project Files
 
