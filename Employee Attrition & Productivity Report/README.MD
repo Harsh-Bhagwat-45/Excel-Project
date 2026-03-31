@@ -23,8 +23,8 @@ Pivot Tables ,
 Interactive Slicers, 
 Dashboard KPIs ,
 Total Employees ,
-Attrition Count ,
-Attrition Rate ,
+Attrition Count,
+Attrition Rate And 
 Average Monthly Salary
 
 # Key Insights
