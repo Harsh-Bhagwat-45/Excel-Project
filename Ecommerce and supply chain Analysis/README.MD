@@ -65,6 +65,7 @@ This project aims to answer:
 ---
 
 ## 📷 Dashboard Preview
+[![Dashboard Preview](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Ecommerce%20and%20supply%20chain%20Analysis/Ecommerce%20%26%20Supply%20chain.png)
 
 
 ---
