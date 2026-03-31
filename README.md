@@ -19,7 +19,7 @@ Each project focuses on solving business problems and generating actionable insi
 - Analyzes employee attrition and workforce trends
 - Identifies factors affecting employee retention
 
-👉 [View Project]()
+👉 [View Project](https://github.com/Harsh-Bhagwat-45/Excel-Project/blob/main/Employee%20Attrition%20%26%20Productivity%20Report/HR%20Analytics%20.png)
 
 ---
 
